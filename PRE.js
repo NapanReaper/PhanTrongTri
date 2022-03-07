@@ -1,5 +1,5 @@
 var to = 'Em😘';
-var gift_url = '';
+var gift_url = 'https://drive.google.com/drive/folders/1AX1C7lER_thY9cUGqr9sKZcv06FbOk0t?usp=sharing';
 var gift_image_url = './image.png';
 
 
